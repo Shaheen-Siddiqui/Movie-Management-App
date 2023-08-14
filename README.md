@@ -1,8 +1,6 @@
-# Movie-Rating
+# Movie Management App
 
 #### machine coding round 11 neoG"2023
-
-# Movie Management App
 
 Welcome to the Movie Management App! This app allows you to efficiently manage your movie collection and preferences.
 
